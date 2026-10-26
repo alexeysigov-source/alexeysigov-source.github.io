@@ -1,0 +1,1 @@
+import{c as e,u as t}from"./motion.BUcpwYun.js";import{t as n}from"./SplitText.D2RYeBm1.js";t.registerPlugin(n),e(()=>{let e=document.querySelector(`[data-wordmark]`);if(!e)return;let r=n.create(e,{type:`chars`,mask:`chars`});t.from(r.chars,{yPercent:100,duration:.8,ease:`power3.out`,stagger:.05,scrollTrigger:{trigger:e,start:`top bottom`,once:!0},onComplete:()=>r.revert()})});
