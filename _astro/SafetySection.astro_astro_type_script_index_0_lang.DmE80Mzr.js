@@ -1,0 +1,1 @@
+import{c as e,n as t,o as n,r}from"./motion.CGGHDo2B.js";n(()=>{let n=document.querySelector(`[data-safety-photo]`),i=n?.querySelector(`img`);n&&i&&(r(i,40),e.from(n.querySelectorAll(`[data-safety-chip]`),{autoAlpha:0,scale:.8,duration:.4,ease:`back.out`,stagger:.15,scrollTrigger:t(n)}))});

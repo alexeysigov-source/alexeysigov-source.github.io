@@ -1,0 +1,1 @@
+import{c as e,n as t,o as n}from"./motion.CGGHDo2B.js";n(()=>{let n=document.querySelector(`[data-why-trust]`),r=n?.querySelector(`[data-why-note]`);n&&r&&e.from(r,{opacity:0,y:24,duration:.7,ease:`power2.out`,delay:.2,scrollTrigger:t(n)})});

@@ -1,0 +1,1 @@
+function e(e){let t=()=>{e.scrollWidth>e.clientWidth?e.tabIndex=0:e.removeAttribute(`tabindex`)};new ResizeObserver(t).observe(e),t()}export{e as t};

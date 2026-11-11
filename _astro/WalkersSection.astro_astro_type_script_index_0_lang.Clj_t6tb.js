@@ -1,0 +1,1 @@
+import{o as e,r as t}from"./motion.CGGHDo2B.js";e(()=>{let e=document.querySelector(`[data-walker-photo] img`);e&&t(e,30)});
