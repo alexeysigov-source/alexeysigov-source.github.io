@@ -1,0 +1,1 @@
+.nf{gap:calc(30 * var(--u));padding:calc(160 * var(--u)) calc(15 * var(--u)) 0;display:grid}.nf__links{gap:calc(30 * var(--u));display:flex}.nf__links a:hover{color:var(--c-accent)}@media (width>=1200px){.nf{padding-left:calc(40 * var(--u))}}

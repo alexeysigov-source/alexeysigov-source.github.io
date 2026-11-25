@@ -1,1 +1,0 @@
-var e=new IntersectionObserver(t=>{for(let n of t)n.isIntersecting&&(n.target.dataset.lit=``,e.unobserve(n.target))},{threshold:.5});function t(){for(let t of document.querySelectorAll(`.frame-light`))e.observe(t)}export{t};
